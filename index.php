@@ -5,6 +5,7 @@
 	// 判断数组中是否包含指定属性 array_key_exists('PATH_INFO',$_SERVER)
 	
 
+
 	/*
 		规定好URL格式，从而方便导航
 		/main/index
